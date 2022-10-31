@@ -4,8 +4,11 @@
 <b>Team Members</b>:
 
 Pritham Sriram Govindaraj
+<br>
 Suraj Vasista Bettadapura Krishna
+<br>
 Sai Harshith Karuneegar Ramesh
+<br>
 Maahi Patel
 
 <b>Explaining The Problem</b>:
