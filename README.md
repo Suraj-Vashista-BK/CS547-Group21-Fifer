@@ -31,6 +31,10 @@ Label: unemployment rate
 
 Our data set initially consisted of 191127 rows and after preprocessing, we are now with a dataset of 173432 rows. We will be performing the prediction using this dataset.
 
+For detaled information of project refer to the Group 21 - Fifer.docs
+
+For video demonstration refer: https://drive.google.com/file/d/1GVMxKhyI88T4vbHq_VEovSIf3xu_iDf4/view?usp=sharing
+
 <b>License</b>:
 MIT License
 
